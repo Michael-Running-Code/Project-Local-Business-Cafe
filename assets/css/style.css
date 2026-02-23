@@ -180,7 +180,7 @@ nav li a:focus {
 
 .about {
   position: relative;
-  background-image: url("/assets/images/About .webp");
+  background-image: url("https://michael-running-code.github.io/Project-Local-Business-Cafe/assets/images/About .webp");;
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -262,7 +262,7 @@ nav li a:focus {
 
 .menu {
   position: relative;
-  background-image: url("/assets/images/menu.webp");
+  background-image: url("https://michael-running-code.github.io/Project-Local-Business-Cafe/assets/images/menu.webp");
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -361,7 +361,7 @@ nav li a:focus {
 
 .contact {
   position: relative;
-  background-image: url("/assets/images/contact.webp");
+  background-image: url("https://michael-running-code.github.io/Project-Local-Business-Cafe/assets/images/contact.webp");
   background-size: cover;
   background-position: center;
   min-height: 100vh;

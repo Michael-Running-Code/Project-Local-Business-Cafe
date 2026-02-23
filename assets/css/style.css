@@ -56,7 +56,7 @@ nav a:focus {
 
 .hero {
   position: relative;
-  background-image: url("/assets/images/hero-coffee.webp");
+  background-image: url("https://michael-running-code.github.io/Project-Local-Business-Cafe/assets/images/hero-coffee.webp");
   background-size: cover;
   background-position: center;
   min-height: 100vh;
